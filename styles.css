@@ -143,3 +143,10 @@ img{
     margin:100px 200px;
     padding:80px 160px;
 }
+
+.footer-footer{
+    color: #f9faf8;
+    background-color: #1f2937;
+    text-align: center;
+    padding: 20px;
+}
